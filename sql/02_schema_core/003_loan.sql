@@ -124,3 +124,4 @@ GO
 CREATE INDEX IX_core_Loan_OriginatorId
 ON core.Loan (OriginatorId);
 GO
+
